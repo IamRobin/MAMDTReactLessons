@@ -3,10 +3,10 @@ import React from 'react';
 import icons from './weatherIcons';
 
 class WeatherCard extends React.Component {
-  constructor: function(props) {
+  constructor(props) {
     super(props);
   }
-  render: function() {
+  render() {
     return (
       <div className="col-xs-6 col-md-3">
         <div href="#" className="thumbnail">
