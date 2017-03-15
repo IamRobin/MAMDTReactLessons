@@ -95,5 +95,12 @@ var App = {
     }
 }
 ```
+## Uitbreiding Weather app
 
+* Switch tussen metric en default units?
 
+* Switch tussen nu, 24 uur weer, 3 dagen vooruit kijken?
+
+* Gebruik eigen locatie voor ophalen van weer, combi `window.navigator` Google API
+
+* Dashboard styling: add Sass?
